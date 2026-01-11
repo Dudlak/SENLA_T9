@@ -1,6 +1,4 @@
-package Task3;
-
-import java.util.Arrays;
+package Task9.Task3;
 
 class Client extends Thread {
 

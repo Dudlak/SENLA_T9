@@ -1,4 +1,4 @@
-package Task2;
+package Task9.Task2;
 
 public class MyThread extends Thread{
     @Override

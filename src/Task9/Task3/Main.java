@@ -1,4 +1,4 @@
-package Task3;
+package Task9.Task3;
 
 public class Main {
     public static void main(String[] args) throws InterruptedException {
